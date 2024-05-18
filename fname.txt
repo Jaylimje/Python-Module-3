@@ -1,0 +1,19 @@
+Question 1 : What is software? What is software engineering?
+
+Answer: Software:
+software refers to a collection of programs, data, and instructions that tell a computer how to perform specific tasks.
+It encompasses everything from simple applications like text editors and web browsers to complex systems like operating systems, databases, and video games. Software can be categorized into two main types:
+
+1. System Software: 
+This type of software includes operating systems, device drivers, utilities, and other programs that enable the computer hardware to function and provide a platform for running application software.
+
+2. Application Software: 
+Application software includes programs designed to perform specific tasks for users, such as word processors, web browsers, email clients, and accounting software.
+
+Software Engineering: 
+
+software engineering is the discipline concerned with the application of engineering principles and practices to the design, development, testing, and maintenance of software systems. 
+It involves systematic approaches to software development, aiming to produce high-quality software that meets user requirements, is reliable, scalable, maintainable, and efficient. 
+Software engineers use various methodologies, tools, and techniques to manage the complexities of software development projects, including requirements analysis, design, coding, testing, and deployment. 
+The goal of software engineering is to ensure that software products are delivered on time, within budget, and with the desired level of quality.
+
